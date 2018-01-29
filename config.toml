@@ -4,6 +4,6 @@ title = "Bryan's RC Blog"
 theme = "beautifulhugo"
 
 [Params]
-  subtitle = "Bryan Chu's Recurse Center Adventures"
+  subtitle = "Bryan Chu's Daily Recurse Center Adventures"
   logo = "img/rc_logo.png"
   favicon = "img/github_profile_pic.png"
