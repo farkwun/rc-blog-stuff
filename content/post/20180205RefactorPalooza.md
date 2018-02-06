@@ -28,7 +28,7 @@ Even though the text generation wasn't that great, I still thought it was pretty
 
 I love it.
 
-I spent the rest of the day going over my utility functions and my absolutely disgusting buyCard() function in open-splendor, and I actually found it extremely fulfilling. I thought I mind find it more annoying to have to refactor code, but it was so satisfying getting to put the theory I spent hours talking through with JC into practice.
+I spent the rest of the day going over my utility functions and my absolutely disgusting buyCard() function in open-splendor, and I actually found it extremely fulfilling. I thought I would find it more annoying to have to refactor code, but it was so satisfying getting to put the theory I spent hours talking through with JC into practice.
 
 A couple of the messier code chunks still stuck me though, so I also ended up getting [port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) working on my [NGINX](https://www.nginx.com/) config, and put a working [Golang](https://golang.org/) site up on my server.
 
@@ -38,7 +38,7 @@ Later in the evening, I got completely side-tracked by a sequence AM put on the 
 1, 2, 2, 3, 2, 4, 2, 4, 3, 4, 2, 6, 2, 4, 4, 5, 2, 6, 2, 6...
 ```
 
-A big group of us must have wasted at least an hour and a half wracking our brains trying to figure out the rule. Of course, by the time we even noticed the sequence AM had already left the space for hours, and we were left with absolutely no hints at all as to the meaning of the numbers.
+A big group of us must have wasted at least an hour and a half wracking our brains trying to figure out the rule. Of course, by the time we even noticed the sequence, AM had had left the space hours ago, and we were left with absolutely no hints at all as to the meaning of the numbers.
 
 Just to make sure we weren't completely wasting our time, we plugged the sequence into the [On-line Encyclopedia of Integer Sequences](https://oeis.org/), and we verified that it was indeed a known sequence. To make things worse, RS and PJ both took a look at the entry and confirmed that it was not only a real sequence, but that it was possible for us to solve.
 
